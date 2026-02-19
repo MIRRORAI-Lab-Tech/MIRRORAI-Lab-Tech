@@ -1,32 +1,84 @@
-## UniqueAI
+# MIRROR AI Lab
 
-Anonymous AI/ML engineer.
+Independent research on the foundations of intelligence.
 
-I’m researching and building **sentient human AI**
-intelligence that understands meaning, emotional state, intent, and context
-the way humans do.
+MIRROR AI Lab investigates **Human AI** — intelligence capable of
+understanding meaning, intent, emotional state, and context
+in ways that resemble human cognition.
 
-This work is not about applications or systems.
-It’s about AI itself:
-how understanding forms,
-how awareness emerges,
-and how intelligence behaves naturally.
+This work does not focus on applications or products.  
+It studies intelligence itself.
 
-### Focus
-- Meaning over language
-- Emotional and contextual understanding
-- Human-like perception in AI
-- Sentience-oriented intelligence research
+---
 
-### Belief
-Words are not understanding.
-Responses are not awareness.
-Intelligence begins with meaning.
+## Research Focus
 
-### Status
-Independent research.
-Some work is private.
-Some ideas are unfinished.
-All of it is intentional.
+Current exploration includes:
+
+- formation of meaning beyond language  
+- contextual and emotional understanding  
+- perception-driven intelligence  
+- emergence of adaptive behavior  
+- sentience-oriented cognitive architectures  
+
+---
+
+## MIRROR
+
+**MIRROR** is an experimental research system exploring how intelligence
+emerges when multiple cognitive processes interact.
+
+Rather than predicting responses, MIRROR investigates:
+
+- shared context formation  
+- intent inference across signals  
+- emotional and behavioral alignment  
+- emergent understanding from cooperative models  
+
+MIRROR is a research platform — not a product.
+
+---
+
+## Why This Research Exists
+
+Human communication extends beyond words.  
+Meaning emerges from context, timing, emotion, and intent.
+
+This research explores intelligence capable of perceiving
+and understanding these signals.
+
+Intelligence is not response.  
+It is understanding.
+
+---
+
+## Vision
+
+To move beyond reactive systems toward intelligence that:
+
+- understands rather than predicts  
+- interprets rather than classifies  
+- adapts rather than scripts  
+- behaves naturally rather than imitates  
+
+---
+
+## Principles
+
+Understanding precedes response.  
+Meaning precedes language.  
+Context precedes behavior.
+
+---
+
+## Status
+
+Independent, long-term research.
+
+Some work remains private.  
+Some ideas are unfinished.  
+All work is intentional.
+
+---
 
 🪞

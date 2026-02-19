@@ -1,84 +1,38 @@
 # MIRROR AI Lab
+### Researching the Foundations of Human Intelligence
 
-Independent research on the foundations of intelligence.
+🧠 Independent research on the nature of intelligence.
 
-MIRROR AI Lab investigates **Human AI** — intelligence capable of
-understanding meaning, intent, emotional state, and context
-in ways that resemble human cognition.
+MIRROR AI Lab explores **Human AI** — intelligence capable of understanding
+meaning, intent, emotional state, and context in ways that resemble human cognition.
 
-This work does not focus on applications or products.  
-It studies intelligence itself.
-
----
-
-## Research Focus
-
-Current exploration includes:
-
-- formation of meaning beyond language  
-- contextual and emotional understanding  
-- perception-driven intelligence  
-- emergence of adaptive behavior  
-- sentience-oriented cognitive architectures  
+This work does not focus on products or applications.  
+It investigates intelligence itself.
 
 ---
 
-## MIRROR
+## 🪞 MIRROR
 
-**MIRROR** is an experimental research system exploring how intelligence
-emerges when multiple cognitive processes interact.
-
-Rather than predicting responses, MIRROR investigates:
-
-- shared context formation  
-- intent inference across signals  
-- emotional and behavioral alignment  
-- emergent understanding from cooperative models  
-
-MIRROR is a research platform — not a product.
+**MIRROR** is an experimental research system studying how understanding emerges  
+when multiple cognitive processes interact.
 
 ---
 
-## Why This Research Exists
+## 🔭 Vision
 
-Human communication extends beyond words.  
-Meaning emerges from context, timing, emotion, and intent.
-
-This research explores intelligence capable of perceiving
-and understanding these signals.
-
-Intelligence is not response.  
-It is understanding.
-
----
-
-## Vision
-
-To move beyond reactive systems toward intelligence that:
+To advance intelligence that:
 
 - understands rather than predicts  
 - interprets rather than classifies  
-- adapts rather than scripts  
-- behaves naturally rather than imitates  
+- adapts in ways that feel natural and human  
 
 ---
 
-## Principles
+## 🧩 Status
 
-Understanding precedes response.  
-Meaning precedes language.  
-Context precedes behavior.
-
----
-
-## Status
-
-Independent, long-term research.
-
-Some work remains private.  
-Some ideas are unfinished.  
-All work is intentional.
+Independent, long-term research.  
+Some work remains private. All work is intentional.
 
 ---
 
-🪞
+*Understanding begins where language ends.*

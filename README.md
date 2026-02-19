@@ -20,6 +20,8 @@ To create minds that adapt naturally, like humans.
 Independent, intentional, long-term research.
 Some work remains private, but every step is deliberate.
 
-MIRROR is a suite of models forming a Sentient Human AI. Together, they see, hear, speak, and feel — not to act, but to be human-like.
+MIRROR is a suite of models forming a Sentient Human AI:
+
+* They see, hear, speak, and feel — not to act, but to exist human-like.
 
 *True understanding begins where language ends.*
